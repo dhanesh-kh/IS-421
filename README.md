@@ -40,10 +40,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 financial-ai/
 ├── app/                # Next.js app directory
 │   ├── layout.tsx     # Root layout
-│   └── page.tsx       # Landing page
+│   ├── page.tsx       # Landing page
+│   └── globals.css    # Global styles
 ├── components/        # Reusable components
-├── public/           # Static assets
-└── styles/          # Global styles
+│   └── ui/           # UI components
+├── lib/              # Utility functions
+└── public/           # Static assets
 ```
 
 ## License

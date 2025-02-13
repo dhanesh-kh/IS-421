@@ -128,6 +128,9 @@ export default function LandingPage() {
                 <p className="text-xs text-gray-500 dark:text-gray-400">
                   We respect your privacy. Unsubscribe at any time.
                 </p>
+                <p className="text-xs text-gray-500 dark:text-gray-400">
+                  DEV
+                </p>
               </div>
             </div>
           </div>
